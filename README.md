@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @turbomaster95
-- 👀 I’m interested in Java
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me 

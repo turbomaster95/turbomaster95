@@ -4,8 +4,8 @@ Feel free to browse my repositories!
 
 ### Stats : 
 </details>
-<p align='center'><a href="#"><img height=auto width=auto src="https://streak-stats.demolab.com?user=turbomaster95&theme=dark" height="1000px"/></a></p>
-
+<!-- <p align='center'><a href="#"><img height=auto width=auto src="https://streak-stats.demolab.com?user=turbomaster95&theme=dark" height="1000px"/></a></p> -->
+<p align='center'><a href="#"><img height=auto width=auto src="https://raw.githubusercontent.com/turbomaster95/turbomaster95/main/github-metrics.svg" height="1000px"/></a></p> 
 ### Discord Status :
 </details>
 <p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/765881288740569088.png" height="1000px"/></a></p>

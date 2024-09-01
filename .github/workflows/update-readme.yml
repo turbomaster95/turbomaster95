@@ -35,7 +35,7 @@ jobs:
           plugin_16personalities: yes
           plugin_16personalities_scores: yes
           plugin_16personalities_sections: personality
-          plugin_16personalities_url: https://www.16personalities.com/profiles/f7c4454343174
+          plugin_16personalities_url: https://www.16personalities.com/profiles/70919b0532fdc
           plugin_code: yes
           plugin_code_days: 3
           plugin_code_lines: 12

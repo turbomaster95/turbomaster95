@@ -33,12 +33,12 @@ jobs:
           config_timezone: Asia/Kolkata
           config_twemoji: yes
           plugin_16personalities: yes
-          plugin_16personalities_scores: yes
-          plugin_16personalities_sections: personality
-          plugin_16personalities_url: https://www.16personalities.com/profiles/70919b0532fdc
+          plugin_16personalities_scores: no
+          plugin_16personalities_sections: personality, traits
+          plugin_16personalities_url: ${{ secrets.PERSONALITY }}
           plugin_code: yes
           plugin_code_days: 3
-          plugin_code_lines: 12
+          plugin_code_lines: 15
           plugin_code_load: 400
           plugin_code_visibility: public
           plugin_habits: yes

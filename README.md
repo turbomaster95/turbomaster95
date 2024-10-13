@@ -2,6 +2,11 @@
 It seems you have stumbled upon my humble abode!</br>
 Feel free to browse my repositories!
 
+<p align="center"> 
+  <a href="https://github.com/turbomaster95" alt="Deva's GitHub">
+    <img src="https://komarev.com/ghpvc/?username=turbomaster95&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
 ### Stats : 
 </details>
 <!-- <p align='center'><a href="#"><img height=auto width=auto src="https://streak-stats.demolab.com?user=turbomaster95&theme=dark" height="1000px"/></a></p> -->

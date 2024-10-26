@@ -1,16 +1,20 @@
 # Hello There!
 It seems you have stumbled upon my humble abode!</br>
-Feel free to browse my repositories!
-
+Feel free to browse my repositories!</br>
+Want to watch my videos? </br>
+They are [here!](https://deva.nom.za/yt),
+and the code from my videos are [here.](https://github.com/42pb/videos)
 <p align="center"> 
   <a href="https://github.com/turbomaster95" alt="Deva's GitHub">
     <img src="https://komarev.com/ghpvc/?username=turbomaster95&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
 </p>
-### Stats : 
+
+### Stats :
 </details>
 <!-- <p align='center'><a href="#"><img height=auto width=auto src="https://streak-stats.demolab.com?user=turbomaster95&theme=dark" height="1000px"/></a></p> -->
-<p align='center'><a href="#"><img height=auto width=auto src="https://raw.githubusercontent.com/turbomaster95/turbomaster95/main/github-metrics.svg" height="1000px"/></a></p> 
+<p align='center'><a href="#"><img height=auto width=auto src="https://raw.githubusercontent.com/turbomaster95/turbomaster95/main/github-metrics.svg" height="1000px"/></a></p>
+
 ### Discord Status :
 </details>
 <p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/765881288740569088.png" height="1000px"/></a></p>
@@ -19,7 +23,7 @@ Feel free to browse my repositories!
 </details>
 <p align='center'><a href="#"><img height=auto width=auto src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=I+do+Python;I+do+HTML;I+do+CSS;I+do+JS" height="1000px"/></a></p>
 
-### Technologies :
+### Technologies I use:
 [<img align="left" alt="Visual Studio Code" width="45px" src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" />](#)
 [<img align="left" alt="HTML5" width="45px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />](#)
 [<img align="left" alt="CSS3" width="45px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />](#)
@@ -37,5 +41,5 @@ Feel free to browse my repositories!
 </br>
 </br>
 </br>
-Email : dev@deva.is-cool.dev
+Email : admin@coderrrrr.site
 

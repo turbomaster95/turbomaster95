@@ -4,9 +4,13 @@ Feel free to browse my repositories!</br>
 Want to watch my videos? </br>
 They are [here!](https://deva.nom.za/yt),
 and the code from my videos are [here.](https://github.com/42pb/videos)
+
+Profile Views: </br>
+
 <p align="center"> 
   <a href="https://github.com/turbomaster95" alt="Deva's GitHub">
-    <img src="https://komarev.com/ghpvc/?username=turbomaster95&label=Profile%20views&color=0e75b6&style=flat" />
+    <img src="https://count.getloli.com/@coderrrrr?name=coderrrrr&theme=rule34&padding=7&offset=0&align=top&scale=0.8&pixelated=1&darkmode=0" />
+    <!-- <img src="https://komarev.com/ghpvc/?username=turbomaster95&label=Profile%20views&color=0e75b6&style=flat" /> -->
   </a>
 </p>
 
@@ -17,7 +21,7 @@ and the code from my videos are [here.](https://github.com/42pb/videos)
 
 ### Discord Status :
 </details>
-<p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/765881288740569088.png" height="1000px"/></a></p>
+<p align='center'><a href="#"><!-- <img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/765881288740569088.png" height="1000px"/> --> <img height=auto width=auto src="https://lanyard.cnrad.dev/api/765881288740569088?showDisplayName=false&hideDiscrim=true&ignoreAppId=&theme=dark"/></a></p>
 
 ### About Me :
 </details>
@@ -32,16 +36,15 @@ and the code from my videos are [here.](https://github.com/42pb/videos)
 [<img align="left" alt="Node.js" width="45px" src="https://www.svgrepo.com/show/378837/node.svg" />](#)
 [<img align="left" alt="MongoDB" width="45px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />](#)
 [<img align="left" alt="Firebase" width="45px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />](#)
-[<img align="left" alt="Firebase" width="45px" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/bun.svg" />](#)
-[<img align="left" alt="Firebase" width="45px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />](#)
-[<img align="left" alt="Firebase" width="45px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" />](#)
-[<img align="left" alt="Firebase" width="45px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />](#)
-[<img align="left" alt="Firebase" width="45px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />](#)
+[<img align="left" alt="BunJS" width="45px" src="https://github.com/bestofjs/bestofjs/blob/master/apps/bestofjs-nextjs/public/logos/bun.svg" />](#)
+[<img align="left" alt="Docker" width="45px" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" />](#)
+[<img align="left" alt="Arduino" width="45px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" />](#)
+[<img align="left" alt="Python" width="45px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />](#)
 
 </br>
 </br>
 </br>
-Email : admin@coderrrrr.site
+Email : 
 
 
 

@@ -23,8 +23,9 @@ Profile Views: </br>
 <p align='center'><a href="#"><img height=auto width=auto src="https://raw.githubusercontent.com/turbomaster95/turbomaster95/main/github-metrics.svg" height="1000px"/></a></p>
 
 ### Discord Status :
+<!-- <img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/765881288740569088.png" height="1000px"/> -->
 </details>
-<p align='center'><a href="#"><!-- <img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/765881288740569088.png" height="1000px"/> --> <img height=auto width=auto src="https://lanyard.cnrad.dev/api/765881288740569088?showDisplayName=false&hideDiscrim=true&ignoreAppId=&theme=dark"/></a></p>
+<p align='center'><a href="https://discord.com/users/765881288740569088"><img height=auto width=auto src="https://lanyard.cnrad.dev/api/765881288740569088?theme=dark&showDisplayName=true"/></a></p>
 
 ### About Me :
 </details>

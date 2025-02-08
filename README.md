@@ -8,6 +8,8 @@ and the code from my videos are [here.](https://github.com/42pb/videos)
 Want to email me? 
 [Click here!](mailto:admin@coderrrrr.site?subject=Hi%20there!)
 </br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=turbomaster95&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
 Profile Views: </br>
 
 <p align="center"> 
